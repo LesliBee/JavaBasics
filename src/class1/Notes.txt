@@ -1,0 +1,15 @@
+How to create new class (a file that contains java code)
+ 1) Right-click on a package
+ 2) Click new
+ 3) Java class
+ 4) Enter the name of the class and hit enter
+
+Important Rules of Java:
+    1) All types of brackets must be in pairs: if we have 10 opening brackets, we must have 10 closing brackets as well.
+    These are the brackets that we can use in java () [] {}
+    2) All java lines end with semicolon.
+    3) If I want to run a java code inside a class, I must have main method
+
+Shortcuts:
+    1) type main and hit enter to create main method
+    2) type sout and hit enter to write System.out.println()

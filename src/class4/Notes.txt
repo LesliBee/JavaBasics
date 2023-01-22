@@ -1,0 +1,44 @@
+Operators:
+    Operators are different symbols that we can use to perform operations like addition and subtractions. We can compare
+    things if two entities are the same or not if a number is greater than the other number or not.
+    There are three main types of operators. They are Arithmetic Operators, Relational Operators and Logical Operators.
+
+Arithmetic Operators:
+    We use Arithmetic Operators to perform simple math operations like addition, subtraction, etc.
+    + => Addition
+    - => Subtraction
+    / => Division
+    * => Multiplication
+    % => Modulus, Remainder
+
+Relational Operators:
+    Are used to compare two quantities or entities. For example if something is bigger than the other thing or
+    if two numbers are the same or not or if two boolean variables contain the same values or not.
+    ==  => used to check if two variables contain the same value or not; if same, we get true otherwise we get false.
+    !=  => used to check if two variables don't contain the same value. We get a true if they are not the same.
+    >   => used to check if one value is greater than the other. If not greater, we get a true.
+    <   => used to check if the value on the left is smaller than the value on the right. If so, it will be true.
+    >=  => if the value on the left is greater than the value on the right side or if they are the same, we will get a true
+    <=  => it's the opposite of >= amd it is used to check if something is less than or equal to the other thing
+
+Conditional Constructs:
+    Used to write conditional code. A piece of code that executes based on condition; if condition is true, java
+    executes the code, otherwise, it skips the code.
+How to write Ifelse "if, else" conditions:
+    if(condition){
+    any line of code, even another if condition
+
+    if(){
+
+    }
+
+    }
+
+Important Notes:
+    1) For String we use equals method instead of === sign because it is a non-primitive data type
+    2) We can cmd+opt+l(Mac) ctrl+alt+l(Windows) to format our code
+    3) If we are confused about brackets we can click on opening or closing part to check the other part
+
+If else conditions:
+    If I have to test the same variable for multiple conditions I should use If else if
+    If I have multiple conditions and these conditions are dependent on each other I should us Nested if conditions

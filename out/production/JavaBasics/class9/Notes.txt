@@ -1,0 +1,15 @@
+In programming, if you understand the question, you have already solved 50% of the task. Think of the question in pieces
+To ask a user for something you use the Scanner first
+Then System.out.println (aka sout)
+If asking to ask something a certain # of times:
+    for i (run a loop)
+    sout (line 3 moves to after the loop because we are asking for a # of times)
+
+Nested for Loops:
+    A for loop inside another for loop:
+Important points:
+    Read the questions carefully!
+    Always Break down your problem into smaller steps ALWAYS
+    Focus on those smaller parts test them well. If they are working as per your exceptions, once tested, move to second
+    part
+
